@@ -1,0 +1,22 @@
+{
+  "name": "Case",
+  "version": "0.1.0",
+  "summary": "A short description of Case.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KMaslar/Case",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KMaslar": "kostadinag@nextsense.com"
+  },
+  "source": {
+    "git": "https://github.com/KMaslar/Case.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Case/Classes/**/*"
+}

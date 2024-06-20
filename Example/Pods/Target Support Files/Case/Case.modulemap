@@ -1,0 +1,6 @@
+framework module Case {
+  umbrella header "Case-umbrella.h"
+
+  export *
+  module * { export * }
+}
